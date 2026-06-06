@@ -743,7 +743,7 @@ body {
     }
 
     .view-toggles {
-        align-self: center;
+        display: none;
     }
 
     .page-title {
