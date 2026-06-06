@@ -722,17 +722,20 @@ body {
 /* Phone — single column, stacked list view */
 @media (max-width: 768px) {
     .container {
-        padding: 0 16px;
+        padding: 0 14px;
+        max-width: 100%;
+        overflow-x: hidden;
     }
 
     .header {
-        padding: 40px 0 28px;
+        padding: 36px 0 24px;
     }
 
     .controls-bar {
         flex-direction: column;
         align-items: stretch;
-        gap: 14px;
+        gap: 12px;
+        margin-top: 20px;
     }
 
     .search-container {
@@ -744,53 +747,65 @@ body {
     }
 
     .page-title {
-        font-size: 2rem;
+        font-size: 1.8rem;
     }
 
     .page-subtitle {
-        font-size: 0.95rem;
-        margin-bottom: 24px;
+        font-size: 0.9rem;
+        margin-bottom: 20px;
     }
 
+    /* Grid on mobile: single column, no overflow */
     .student-container.grid-view {
         grid-template-columns: 1fr;
-        gap: 16px;
+        gap: 14px;
     }
 
-    /* On single-column, expand in-place without left shift */
-    .card-wrapper.is-expanded .student-card {
-        left: 0;
-        width: 100%;
-    }
-
+    /* Expanded card stays contained on mobile */
+    .card-wrapper.is-expanded .student-card,
     .card-wrapper.is-closing .student-card {
-        left: 0;
-        width: 100%;
+        position: relative;
+        left: 0 !important;
+        width: 100% !important;
     }
 
     .student-card {
-        padding: 20px;
+        padding: 18px;
     }
 
     .avatar {
-        width: 60px;
-        height: 60px;
-        font-size: 1.15rem;
+        width: 52px;
+        height: 52px;
+        font-size: 1.1rem;
+    }
+
+    .card-header {
+        gap: 12px;
     }
 
     .basic-info h2 {
-        font-size: 1.05rem;
+        font-size: 1rem;
     }
 
     .enrollment {
         font-size: 0.75rem;
     }
 
+    .card-preview {
+        margin-top: 12px;
+        padding-top: 10px;
+    }
+
+    .preview-title {
+        font-size: 0.85rem;
+    }
+
     /* List view: stack columns vertically */
     .list-view .student-card {
         flex-direction: column;
         align-items: flex-start;
-        padding: 20px;
+        padding: 18px;
+        row-gap: 0;
     }
 
     .list-view .card-header {
@@ -808,21 +823,18 @@ body {
         min-width: unset;
     }
 
+    /* Hide quick-info on mobile list — the details section already shows this */
     .list-view .list-quick-info {
-        border-left: none;
-        padding-left: 0;
-        border-top: 1px solid var(--border-color);
-        margin-top: 12px;
-        padding-top: 12px;
+        display: none;
+    }
+
+    .list-view .card-details {
         width: 100%;
-        min-width: unset;
-        flex-direction: row;
-        align-items: center;
-        justify-content: space-between;
     }
 
     .action-buttons {
         grid-template-columns: 1fr;
+        gap: 10px;
     }
 
     .action-btn {
@@ -832,63 +844,81 @@ body {
 
     .email-display {
         font-size: 0.8rem;
+        word-break: break-all;
     }
 
     .close-card-btn {
         width: 28px;
         height: 28px;
         font-size: 0.85rem;
-        top: 12px;
-        right: 12px;
+        top: 10px;
+        right: 10px;
     }
 
     .student-container {
         margin-bottom: 40px;
+    }
+
+    .details-content {
+        gap: 12px;
+    }
+
+    .project-title {
+        font-size: 0.95rem;
+    }
+
+    .project-link {
+        font-size: 0.85rem;
     }
 }
 
 /* Ultra-small screens */
 @media (max-width: 400px) {
     .container {
-        padding: 0 12px;
+        padding: 0 10px;
     }
 
     .header {
-        padding: 32px 0 20px;
+        padding: 28px 0 18px;
     }
 
     .page-title {
-        font-size: 1.6rem;
+        font-size: 1.5rem;
     }
 
     .student-card {
-        padding: 16px;
+        padding: 14px;
         border-radius: 12px;
     }
 
     .avatar {
-        width: 48px;
-        height: 48px;
-        font-size: 1rem;
-    }
-
-    .basic-info h2 {
-        font-size: 0.95rem;
-    }
-
-    .card-header {
-        gap: 12px;
-    }
-
-    #searchInput {
-        padding: 12px 14px 12px 42px;
+        width: 44px;
+        height: 44px;
         font-size: 0.9rem;
     }
 
+    .basic-info h2 {
+        font-size: 0.9rem;
+    }
+
+    .card-header {
+        gap: 10px;
+    }
+
+    #searchInput {
+        padding: 12px 14px 12px 40px;
+        font-size: 0.85rem;
+    }
+
+    .search-icon {
+        font-size: 1rem;
+        left: 14px;
+    }
+
     .toggle-btn {
-        width: 36px;
-        height: 36px;
-        font-size: 1.1rem;
+        width: 34px;
+        height: 34px;
+        font-size: 1rem;
     }
 
     .action-buttons {

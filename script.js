@@ -217,6 +217,16 @@ document.addEventListener('DOMContentLoaded', () => {
     gridViewBtn.addEventListener('click', () => setView('grid'));
     listViewBtn.addEventListener('click', () => setView('list'));
 
+    // Set default view based on screen width
+    function setDefaultView() {
+        if (window.innerWidth <= 768) {
+            setView('list');
+        } else {
+            setView('grid');
+        }
+    }
+
     // Init
+    setDefaultView();
     fetchStudents();
 });
