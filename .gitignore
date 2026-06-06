@@ -2,22 +2,3 @@
 data1.xlsx
 clean_data.py
 
-# OS files
-.DS_Store
-Thumbs.db
-desktop.ini
-
-# Editor files
-*.swp
-*.swo
-*~
-.vscode/
-.idea/
-
-# Node (in case npm is used later)
-node_modules/
-package-lock.json
-
-# Misc
-*.log
-*.bak
