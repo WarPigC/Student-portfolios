@@ -1,15 +1,5 @@
 [
   {
-    "name": "Aadarsh Garhewal",
-    "enrollment": "0827CI231001",
-    "email": "aadarshgarhewal230818@acropolis.in",
-    "matlabCert": "https://drive.google.com/open?id=1yIHspJ5NC_q4iS4Y8DKU_c7XWBNzsIHN",
-    "blogLink": "https://aadarshgarhewal.blogspot.com/2026/05/convolutional-neural-network.html",
-    "githubLink": "https://github.com/aadarshdevstack/Machine-Learning",
-    "projectTitle": "Not Specified",
-    "projectLink": ""
-  },
-  {
     "name": "Abhay Dugaya",
     "enrollment": "0827CI231003",
     "email": "abhaydugaya230499@acropolis.in",
@@ -17,7 +7,9 @@
     "blogLink": "https://abhaydugaya-rnn.blogspot.com/2026/05/recurrent-neural-networkrnnthe-power-of.html",
     "githubLink": "https://github.com/abhaydugaya230499-cmd",
     "projectTitle": "ML Project",
-    "projectLink": "https://dl-ten-umber.vercel.app/"
+    "projectLink": "https://dl-ten-umber.vercel.app/",
+    "projectWorking": true,
+    "blogWorking": true
   },
   {
     "name": "Abhishek Jaiswal",
@@ -27,87 +19,9 @@
     "blogLink": "https://abhishekjaiswal07.blogspot.com/2026/05/hyperparameters-in-machine-learning.html",
     "githubLink": "https://github.com/abhishekjaiswal230430-rgb/ml",
     "projectTitle": "ML Project",
-    "projectLink": "https://weather-detector-azure.vercel.app/"
-  },
-  {
-    "name": "Abhishek Verma",
-    "enrollment": "0827CI231005",
-    "email": "abhishekverma230913@acropolis.in",
-    "matlabCert": "https://drive.google.com/open?id=1NtGp9WFMzUrT9XGBfJqxdH4VUaojBdPd",
-    "blogLink": "https://medium.com/@abhishekkumarjaiswal9722/langchain-langgraph-2d31d712e2ca",
-    "githubLink": "https://github.com/abbu1809/ML-Lab",
-    "projectTitle": "ML Project",
-    "projectLink": "https://github.com/abbu1809/ML_PROJECT.git"
-  },
-  {
-    "name": "Adarsh Pratap Singh Gurjar",
-    "enrollment": "0827CI231007",
-    "email": "adarshpratap231043@acropolis.in",
-    "matlabCert": "https://drive.google.com/open?id=1JbfIEz35xKW2--HnfHT_L3nYmprXm6qM",
-    "blogLink": "https://medium.com/@gurjaradarsh2/sigmoid-vs-relu-activation-function-choice-that-changed-deep-learning-51387e18733d",
-    "githubLink": "https://github.com/adarshpratap231043-arch/machine-learning.git",
-    "projectTitle": "ML Project",
-    "projectLink": "https://student-stress-6r3dqufwrpfxqmskwavthg.streamlit.app/"
-  },
-  {
-    "name": "Aditi Kumrawat",
-    "enrollment": "0827RL231001",
-    "email": "aditikumrawat230287@acropolis.in",
-    "matlabCert": "https://drive.google.com/open?id=1Ssx2JPxJQ9wCOu5TqXLbr5fNGmxGWNKb",
-    "blogLink": "https://aditikumrawat.hashnode.dev/how-random-forest-improves-prediction-accuracy",
-    "githubLink": "https://github.com/Aditikumrawat-23/Machine-Learning.git",
-    "projectTitle": "Students Marks predictor -",
-    "projectLink": ""
-  },
-  {
-    "name": "Aditi Vishwakarma",
-    "enrollment": "0827CI231008",
-    "email": "aditivishwakarma231033@acropolis.in",
-    "matlabCert": "https://drive.google.com/open?id=1hSgij7DIcNewuJkmM3rmMr5VN5lLP6nG",
-    "blogLink": "https://worldailyaffairs.blogspot.com/2026/05/how-convolutional-neural-networks.html",
-    "githubLink": "https://github.com/AditiVishwakarma257/Machine-Learning-Lab",
-    "projectTitle": "Update it later",
-    "projectLink": ""
-  },
-  {
-    "name": "Aditya Tiwari",
-    "enrollment": "0827CI231009",
-    "email": "adityatiwari230074@acropolis.in",
-    "matlabCert": "https://drive.google.com/open?id=1C23lLbCPGtq6qZRvJv80HcoTyWUl87FL",
-    "blogLink": "https://medium.com/@tiwariaditya005/when-machines-learned-to-remember-5769d86c1b49",
-    "githubLink": "https://github.com/adityatiwari12/MachineLearning-CSIT",
-    "projectTitle": "ML Project",
-    "projectLink": "https://ai-content-detector-csit-project.streamlit.app/"
-  },
-  {
-    "name": "Akash Baraskar",
-    "enrollment": "0827CI231010",
-    "email": "akashbaraskar231064@acropolis.in",
-    "matlabCert": "https://drive.google.com/open?id=1TSP_k99ngQdh5lZMQ_pKDtN-M5tdpDmv",
-    "blogLink": "https://mlqlearning.blogspot.com/2026/05/introduction-machine-learning-is.html",
-    "githubLink": "https://github.com/akashbaraskar231064/Python-ML",
-    "projectTitle": "Medicine Recommendation System",
-    "projectLink": ""
-  },
-  {
-    "name": "Akshat Karode",
-    "enrollment": "0827CI231011",
-    "email": "akshatkarode230101@acropolis.in",
-    "matlabCert": "https://drive.google.com/open?id=1K4xOmw7ytPCVztS1hO32PCvbAwm0SLwR",
-    "blogLink": "https://hirericalclusteringakshat.blogspot.com/2026/05/hierarchical-clustering.html?m=1",
-    "githubLink": "https://github.com/karodeakshat064/machine-learning-csit",
-    "projectTitle": "Not Specified",
-    "projectLink": ""
-  },
-  {
-    "name": "Akshay Khanna",
-    "enrollment": "0827CI231012",
-    "email": "akshaykhanna230754@acropolis.in",
-    "matlabCert": "https://drive.google.com/open?id=1ZFj6FipsdLpumaYhIT2bUrmlsB6-U_Aq",
-    "blogLink": "https://medium.com/@akshaykhanna5684/beam-search-the-algorithm-that-helps-ai-think-before-it-speaks-b6a2516a1a45",
-    "githubLink": "https://github.com/A-kki/ML",
-    "projectTitle": "Nil",
-    "projectLink": ""
+    "projectLink": "https://weather-detector-azure.vercel.app/",
+    "projectWorking": true,
+    "blogWorking": true
   },
   {
     "name": "Amay Mishra",
@@ -117,47 +31,9 @@
     "blogLink": "https://www.kaggle.com/code/amaymishra11/understanding-resnet-deep-dive-into-resnet",
     "githubLink": "https://github.com/amaymishra1104",
     "projectTitle": "code catcher",
-    "projectLink": "https://code-catch.streamlit.app/"
-  },
-  {
-    "name": "Ambar Yadav",
-    "enrollment": "0827CI231014",
-    "email": "ambaryadav231256@acropolis.in",
-    "matlabCert": "https://drive.google.com/open?id=1TKz0H9zoPFNmJv07sLSRWsDhif4kQs02",
-    "blogLink": "https://ambaryadavwrites.blogspot.com/2026/05/sigmoid-vs-relu.html",
-    "githubLink": "https://github.com/ambaryadav27/Machine-Learning-csit.git",
-    "projectTitle": "Student Marks Predictor",
-    "projectLink": "https://student-marks-predictor-production.up.railway.app"
-  },
-  {
-    "name": "Anshu Bilawliya",
-    "enrollment": "0827CI231020",
-    "email": "anshubilawliya230456@acropolis.in",
-    "matlabCert": "https://drive.google.com/open?id=1naVr4nDi4WVux84hwfZD3vfy6PHWcAFU",
-    "blogLink": "https://anshubilawliyablog.blogspot.com/2026/05/exploding-gradient-problem-in-deep.html",
-    "githubLink": "https://github.com/anshubilawliya230456-web/ML-Lab",
-    "projectTitle": "Vehicle Detection System",
-    "projectLink": "https://vechicle-detecttion.onrender.com"
-  },
-  {
-    "name": "Anuj Malviya",
-    "enrollment": "0827CI231021",
-    "email": "anujmalviya231066@acropolis.in",
-    "matlabCert": "https://drive.google.com/open?id=13PvlOhnOzj_42zVs7o0XO6inWc-iRX-N",
-    "blogLink": "https://anujmalviya20.blogspot.com/2026/05/reinforcement-learning.html",
-    "githubLink": "https://github.com/AnujMalviya20/ML_class/tree/main/Python-ML-main",
-    "projectTitle": "Not Specified",
-    "projectLink": ""
-  },
-  {
-    "name": "Anvesh Trivedi",
-    "enrollment": "0827CI231022",
-    "email": "anveshtrivedi231232@acropolis.in",
-    "matlabCert": "https://drive.google.com/open?id=10DxCB7XyyymEjUuufyvHKpAbEV4XYy2u",
-    "blogLink": "https://anveshtrivedi.substack.com/p/a-study-of-the-long-short-term-memory",
-    "githubLink": "https://github.com/Anveshtrivedi/",
-    "projectTitle": "Not Specified",
-    "projectLink": ""
+    "projectLink": "https://code-catch.streamlit.app/",
+    "projectWorking": true,
+    "blogWorking": true
   },
   {
     "name": "Anya Jain",
@@ -167,7 +43,9 @@
     "blogLink": "https://anyajain3.substack.com/p/retrievalaugmented-generation-rag",
     "githubLink": "https://github.com/Anyajain05/Machine-learning",
     "projectTitle": "ML Project",
-    "projectLink": "https://breastcancerprediction-vbxymgrfqcpslp8wxvzbcl.streamlit.app/"
+    "projectLink": "https://breastcancerprediction-vbxymgrfqcpslp8wxvzbcl.streamlit.app/",
+    "projectWorking": true,
+    "blogWorking": true
   },
   {
     "name": "Aryan Singh Bhadoria",
@@ -177,7 +55,9 @@
     "blogLink": "https://open.substack.com/pub/aryansinghbhadoria/p/linearity-vs-nonlinearity-in-machine?r=8fzkl1&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
     "githubLink": "https://github.com/Aryan-theccool/ML/tree/main/project",
     "projectTitle": "ML Project",
-    "projectLink": "https://3pzukvvn3waxkdqhluak3o.streamlit.app/"
+    "projectLink": "https://3pzukvvn3waxkdqhluak3o.streamlit.app/",
+    "projectWorking": true,
+    "blogWorking": true
   },
   {
     "name": "Ashwin Carpenter",
@@ -187,7 +67,9 @@
     "blogLink": "https://dailynewsanalysishindi.blogspot.com/2026/05/Linearregression.html?m=1",
     "githubLink": "https://github.com/ASHWINCARPENTER",
     "projectTitle": "ML Project",
-    "projectLink": "https://curly-dew-c995.ashwincarpenter924.workers.dev/"
+    "projectLink": "https://curly-dew-c995.ashwincarpenter924.workers.dev/",
+    "projectWorking": true,
+    "blogWorking": true
   },
   {
     "name": "Avi Kedare",
@@ -197,7 +79,9 @@
     "blogLink": "https://avi-kedare-vanshing-gradient.blogspot.com/2026/05/vanishing-gradient-problem-in-deep.html",
     "githubLink": "https://github.com/avikedare230455-cmd/ML",
     "projectTitle": "Animal Species Identifier link",
-    "projectLink": "https://animal-species-identifier-ak.vercel.app/"
+    "projectLink": "https://animal-species-identifier-ak.vercel.app/",
+    "projectWorking": true,
+    "blogWorking": true
   },
   {
     "name": "Ayush Choudhary",
@@ -207,17 +91,9 @@
     "blogLink": "https://ayushhchoudharyy.blogspot.com/2026/05/transfer-learning.html",
     "githubLink": "https://github.com/choudharyayushar-dotcom/Ml_CSIT",
     "projectTitle": "ML PROJECT TITLE- Student marks prediction system. Deployment link",
-    "projectLink": "https://marks-prediction-halo7qzyxt5fmxfzhpikfy.streamlit.app/"
-  },
-  {
-    "name": "Ayush Patel",
-    "enrollment": "0827CI231002",
-    "email": "aayushpatel230358@acropolis.in",
-    "matlabCert": "https://drive.google.com/open?id=1C6qOKlzF-zCpAV8OM0OKIZw7whVWH9kN",
-    "blogLink": "https://ayushpatel-mdp.blogspot.com/2026/05/mdpmarkov-decision-process.html",
-    "githubLink": "https://github.com/Ayush2005292/ML",
-    "projectTitle": "Emotion Detection Specifier) and link",
-    "projectLink": "https://emotion-detection-glal.onrender.com/"
+    "projectLink": "https://marks-prediction-halo7qzyxt5fmxfzhpikfy.streamlit.app/",
+    "projectWorking": true,
+    "blogWorking": true
   },
   {
     "name": "Chirag",
@@ -227,47 +103,9 @@
     "blogLink": "https://reinforcementlearningchirag.blogspot.com/2026/05/introduction-to-reinforcement-learning.html",
     "githubLink": "https://github.com/chiragm7415",
     "projectTitle": "ML Project",
-    "projectLink": "https://fruit-detector-dl-63py.vercel.app/"
-  },
-  {
-    "name": "Deeva Jain",
-    "enrollment": "082CI231032",
-    "email": "deevajain230264@acropolis.in",
-    "matlabCert": "https://drive.google.com/open?id=1_Pxgs5fPB7uoOd87MMtIoreb17oy9Kh9",
-    "blogLink": "https://medium.com/@deevajain2607/auto-encoder-from-basic-to-advanced-b14151c8944a",
-    "githubLink": "https://github.com/Deeva2601/Python-ML-lab",
-    "projectTitle": "ok",
-    "projectLink": ""
-  },
-  {
-    "name": "Deeva Jain",
-    "enrollment": "0827CI231032",
-    "email": "deevajain230264@acropolis.in",
-    "matlabCert": "https://drive.google.com/open?id=1nokyN0e42cnzVs3igLPlSAvELLSIrLT7",
-    "blogLink": "https://medium.com/@deevajain2607/auto-encoder-from-basic-to-advanced-b14151c8944a",
-    "githubLink": "https://github.com/Deeva2601",
-    "projectTitle": "ML Project",
-    "projectLink": "https://kris7656-moodmusic.hf.space/"
-  },
-  {
-    "name": "Dev Agrawal",
-    "enrollment": "0827CI231033",
-    "email": "devagrawal230114@acropolis.in",
-    "matlabCert": "https://drive.google.com/open?id=1wvqs0U7IkEyOhrl6YjqHP7ZL8o68yUkB",
-    "blogLink": "https://devagrawal1234.blogspot.com/2026/05/synthetic-data-generation-using-machine.html",
-    "githubLink": "https://github.com/agrawaldev12345-stack/ML-and-python",
-    "projectTitle": "Customer agent supporter",
-    "projectLink": ""
-  },
-  {
-    "name": "Devang Sharma",
-    "enrollment": "0827CI231034",
-    "email": "devangsharma230467@acropolis.in",
-    "matlabCert": "https://drive.google.com/open?id=17wk9gzRXAScKmyPqzLDVy0VKVw3QSicG",
-    "blogLink": "https://medium.com/@devangsharma26102005/1d-vs-2d-convolution-in-deep-learning-using-python-6fd033b72d65",
-    "githubLink": "https://github.com/devangsharma230467-sys/python-ml",
-    "projectTitle": "ML Project",
-    "projectLink": "https://ml-plant-disease-detection.onrender.com"
+    "projectLink": "https://fruit-detector-dl-63py.vercel.app/",
+    "projectWorking": true,
+    "blogWorking": true
   },
   {
     "name": "Dheer Panchal",
@@ -277,17 +115,9 @@
     "blogLink": "https://07dheer.blogspot.com/2026/05/rnn-and-cnn-backbone-of-deep-learning.html",
     "githubLink": "https://github.com/dheerpanchal230683/Python-ML",
     "projectTitle": "Spam classifier",
-    "projectLink": "https://github.com/dheerpanchal230683/spam-classifier.git"
-  },
-  {
-    "name": "Dipesh Patidar",
-    "enrollment": "0827CI230138",
-    "email": "dipeshpatidar230724@acropolis.in",
-    "matlabCert": "https://drive.google.com/open?id=1FFMD_RTCR23u0U7BcSqifXB7oQVjOQfp",
-    "blogLink": "https://realdipeshblog.blogspot.com/2026/05/artificial-neural-networks-brain-behind.html",
-    "githubLink": "https://github.com/DipeshPatidar2004/Object-Detection",
-    "projectTitle": "ML Project",
-    "projectLink": "https://object-detection-8lyz.onrender.com"
+    "projectLink": "https://github.com/dheerpanchal230683/spam-classifier.git",
+    "projectWorking": true,
+    "blogWorking": true
   },
   {
     "name": "Disha Asija",
@@ -297,7 +127,9 @@
     "blogLink": "https://dishaoneshotlearning.blogspot.com/2026/05/import-urlhttpsfonts.html",
     "githubLink": "https://github.com/dishaasija315/Machine_learning",
     "projectTitle": "ML Project",
-    "projectLink": "https://dishaasija315-face-mask-detection-app-2vrssw.streamlit.app/"
+    "projectLink": "https://dishaasija315-face-mask-detection-app-2vrssw.streamlit.app/",
+    "projectWorking": true,
+    "blogWorking": true
   },
   {
     "name": "Eklavya Jangid",
@@ -307,47 +139,9 @@
     "blogLink": "https://eklavyaactor-criticmodel.blogspot.com/2026/05/bptt-rnn-cnn-difference-mdp-sarsa-actor.html",
     "githubLink": "https://github.com/eklavyajangid305",
     "projectTitle": "SentiScope review analyser",
-    "projectLink": "https://eklavyajangid305.github.io/SentiScope-AI/"
-  },
-  {
-    "name": "Hariom Patidar",
-    "enrollment": "0827CI231044",
-    "email": "hariompatidar231006@acropolis.in",
-    "matlabCert": "https://drive.google.com/open?id=1N5W-bmut9DKsVwMRmvVwx4EjTs--9hMt",
-    "blogLink": "https://medium.com/@harshpatidar1966/yolo-42bb16a07965",
-    "githubLink": "https://github.com/Hariom1-eng/Deep-Learning",
-    "projectTitle": "mlproject-production-4e78.up.railway.app",
-    "projectLink": ""
-  },
-  {
-    "name": "Harshit Jain",
-    "enrollment": "0827CI231046",
-    "email": "harshitjain231397@acropolis.in",
-    "matlabCert": "https://drive.google.com/open?id=1FmkHmlD9ErX4vrMx7pp9Fdlm8F_eMI1w",
-    "blogLink": "https://medium.com/@hardikjain1803/confusion-matrix-in-machine-learning-6528d4e9b95b",
-    "githubLink": "https://github.com/harshitjain1888/Machine-Learning",
-    "projectTitle": "Movie Recommendation system",
-    "projectLink": ""
-  },
-  {
-    "name": "Harshita Paliwal",
-    "enrollment": "0827CI231047",
-    "email": "harshitapaliwal231196@acropolis.in",
-    "matlabCert": "https://drive.google.com/open?id=1Waf9eJNjwdZAdW8HQQIM3nVVaSBvvZS8",
-    "blogLink": "https://medium.com/@harshitapaliwal14/the-perceptron-the-tiny-brain-cell-behind-modern-ai-465683f5b592",
-    "githubLink": "https://github.com/HARSHITAPALIWAL2/Machine-Learning",
-    "projectTitle": "spam-mssg-detector-zq45.vercel.app",
-    "projectLink": ""
-  },
-  {
-    "name": "Himanshu Sheetlani",
-    "enrollment": "0827CI231048",
-    "email": "himanshusheetlani231177@acropolis.in",
-    "matlabCert": "https://drive.google.com/open?id=1N76UXvt1PyrRM-_n7ErHHWeV1bZywOqu",
-    "blogLink": "https://medium.com/p/e69c45d81dd3",
-    "githubLink": "https://github.com/himanshu-sheetlani/ML-Course",
-    "projectTitle": "Car price predictor - using random forest regression",
-    "projectLink": "https://car-price-prediction-sand.vercel.app/"
+    "projectLink": "https://eklavyajangid305.github.io/SentiScope-AI/",
+    "projectWorking": true,
+    "blogWorking": true
   },
   {
     "name": "Hritik Patel",
@@ -357,7 +151,9 @@
     "blogLink": "https://blogbyhritikpatelongru.blogspot.com/2026/05/blog-post.html",
     "githubLink": "https://github.com/hritikpatel230371-ux/ML-LAB",
     "projectTitle": "ML Project",
-    "projectLink": "https://object-detection-01.vercel.app/"
+    "projectLink": "https://object-detection-01.vercel.app/",
+    "projectWorking": true,
+    "blogWorking": true
   },
   {
     "name": "Ifrah Qureshi",
@@ -367,7 +163,9 @@
     "blogLink": "https://svm-the-forgotten-ml-algorithm.blogspot.com/",
     "githubLink": "https://github.com/Ifrah27/Machine-Learning",
     "projectTitle": "Heart Disease Risk Prediction      deployment link",
-    "projectLink": "https://aiheartguard.streamlit.app/"
+    "projectLink": "https://aiheartguard.streamlit.app/",
+    "projectWorking": true,
+    "blogWorking": true
   },
   {
     "name": "Ishan Singh Tomar",
@@ -377,27 +175,9 @@
     "blogLink": "https://guestssentiment.blogspot.com/2026/05/sentiment-analysis-decoding-what-resort.html",
     "githubLink": "https://github.com/i-tomar/",
     "projectTitle": "Smart waste classification",
-    "projectLink": "https://waste-and-garbage-classification.streamlit.app/"
-  },
-  {
-    "name": "Ishika Rathod",
-    "enrollment": "0827CI231052",
-    "email": "ishikarathod231008@acropolis.in",
-    "matlabCert": "https://drive.google.com/open?id=1L0vFq7JtG8tCJM87ONVSlMQfyn5hz9b0",
-    "blogLink": "https://siamesenetworkml.blogspot.com/2026/05/siamese-network.html",
-    "githubLink": "https://github.com/ishikarathod26/Mini_Project",
-    "projectTitle": "eco-vision-waste.surge.sh",
-    "projectLink": ""
-  },
-  {
-    "name": "Ishika Sethiya",
-    "enrollment": "0827CI231053",
-    "email": "ishikasethiya231125@acropolis.in",
-    "matlabCert": "https://drive.google.com/open?id=1t9t0ucbOuafFMKUahEWuvod9-yMVFrOu",
-    "blogLink": "https://medium.com/@ishikasethiya16/the-power-of-natural-language-processing-teaching-machines-to-understand-humans-1dae30f7792e",
-    "githubLink": "https://github.com/ishikasethiya16/Python-Lab",
-    "projectTitle": "ML Project",
-    "projectLink": "https://waste-classification-ai-guq4zqolrjvhfj4g5x7ebx.streamlit.app"
+    "projectLink": "https://waste-and-garbage-classification.streamlit.app/",
+    "projectWorking": true,
+    "blogWorking": true
   },
   {
     "name": "Jayesh Kushwah",
@@ -407,147 +187,9 @@
     "blogLink": "https://supportvectormachinejayesh54.blogspot.com/2026/05/supportvectormachinejayesh.html",
     "githubLink": "https://github.com/Jayesh-kus",
     "projectTitle": "image analysis ai",
-    "projectLink": "https://deep-learning-henna.vercel.app?_vercel_share=vfSo5A6d30dB9BCbPEPH34FupEZDI7Oo"
-  },
-  {
-    "name": "Kapil Goyal",
-    "enrollment": "0827CI231057",
-    "email": "kapilgoyal230560@acropolis.in",
-    "matlabCert": "https://drive.google.com/open?id=1zwQPgatcYAwSc9q7_8OPMkCEDJVvmPf5",
-    "blogLink": "https://medium.com/@kapilgoel2606/the-mind-in-the-machine-understanding-large-language-models-06de7c546a95",
-    "githubLink": "https://github.com/kapil261/ML_LABS",
-    "projectTitle": "ML Project",
-    "projectLink": "https://ai-powered-data-analyst-2.onrender.com"
-  },
-  {
-    "name": "Karan Patel",
-    "enrollment": "0827CI231058",
-    "email": "karanpatel230471@acropolis.in",
-    "matlabCert": "https://drive.google.com/open?id=1MSb-bmhLh1DMCELTHuKYu_9sFIrxzT5P",
-    "blogLink": "https://medium.com/@karanpatel230471/transfer-learning-fdeef218eed8",
-    "githubLink": "https://github.com/",
-    "projectTitle": "ML Project",
-    "projectLink": "https://plant-disease-detection-mocha-six.vercel.app"
-  },
-  {
-    "name": "Keshav Patidar",
-    "enrollment": "0827CI231060",
-    "email": "keshavpatidar231235@acropolis.in",
-    "matlabCert": "https://drive.google.com/open?id=15PgnJ6hc-ByEj3ROGLVgiy89IdAghcTW",
-    "blogLink": "https://officialkeshav45.blogspot.com/2026/05/convolutional-neural-networks-cnn.html",
-    "githubLink": "https://github.com/Keshu45/Machine-Learning",
-    "projectTitle": "Bitcoin Price Prediction",
-    "projectLink": "https://cryptovision-ml.onrender.com/"
-  },
-  {
-    "name": "Krati Patidar",
-    "enrollment": "0827CI231063",
-    "email": "kratipatidar230124@acropolis.in",
-    "matlabCert": "https://drive.google.com/open?id=1CpOxv3pDzIuOUYyp4d4A5ierGv3IgMpz",
-    "blogLink": "https://optimizersml.blogspot.com/2026/05/optimizers-in-machine-learning.html",
-    "githubLink": "https://github.com/kratipatidar15/Machine-Learning",
-    "projectTitle": "Waste classification and recycling suggestion system",
-    "projectLink": ""
-  },
-  {
-    "name": "Kripa Raghuvanshi",
-    "enrollment": "0827CI231064",
-    "email": "kriparaghuvanshi231039@acropolis.in",
-    "matlabCert": "https://drive.google.com/open?id=1EFcTUq7vrK-De_Jqst22eGcchCztdD8Y",
-    "blogLink": "https://kriparaghuvanshi55.blogspot.com/2026/05/supervised-vs-unsupervised-learning-in.html,   https://kriparaghuvanshi55.blogspot.com/2026/05/machine-learning-simple-guide.html",
-    "githubLink": "https://github.com/kripa-r/Machine-learning",
-    "projectTitle": "ML Project",
-    "projectLink": "https://fake-news-detector-1-52w3.onrender.com"
-  },
-  {
-    "name": "Krishna Gupta",
-    "enrollment": "0827CI231065",
-    "email": "krishnagupta231081@acropolis.in",
-    "matlabCert": "https://drive.google.com/open?id=1qOZ1-tPeFG5UgEQCXYkMnPRfvcwZT3PZ",
-    "blogLink": "https://www.blogger.com/blog/post/edit/7071205792401307551/2087365273623018069",
-    "githubLink": "https://github.com/krishnagupta65/machine-learning",
-    "projectTitle": "Not Specified",
-    "projectLink": ""
-  },
-  {
-    "name": "Krishna Gupta",
-    "enrollment": "0827CI231066",
-    "email": "krishnagupta231270@acropolis.in",
-    "matlabCert": "https://drive.google.com/open?id=161_W8EuO9F1nGAeH6Tme3pd0qorIl4tC",
-    "blogLink": "https://medium.com/@krishnagupta52784/understanding-inception-network-without-the-math-6b929518d2c7",
-    "githubLink": "https://github.com/kris743",
-    "projectTitle": "ML Project",
-    "projectLink": "https://ai-resume-matcher-k743.onrender.com"
-  },
-  {
-    "name": "Krishna Khirbadodiya",
-    "enrollment": "0827CI231067",
-    "email": "krishnakhirbadodiya230936@acropolis.in",
-    "matlabCert": "https://drive.google.com/open?id=1aLwGfSLFl943JCAtByIF4KaBO0LQULUG",
-    "blogLink": "https://medium.com/@krishnakhirbadodiya/beyond-the-route-the-machine-learning-architecture-powering-google-maps-10f5b798abea",
-    "githubLink": "https://github.com/krishnn02",
-    "projectTitle": "Title:- Urban Heat Island Analyzer ,    Deployment Link",
-    "projectLink": "https://urban-heat-island-analyzer.onrender.com"
-  },
-  {
-    "name": "Krishna Soni",
-    "enrollment": "0827CI231068",
-    "email": "krishnasoni230691@acropolis.in",
-    "matlabCert": "https://drive.google.com/open?id=1gqqWpE1bqKD2aobjrpLkyX0uZb7Qzp6Y",
-    "blogLink": "https://krishnasoni7730.blogspot.com/2026/05/hyper-parameter.html",
-    "githubLink": "https://github.com/krishnasoni230691-creator",
-    "projectTitle": "Hyper parameter",
-    "projectLink": ""
-  },
-  {
-    "name": "Krishna Thakur",
-    "enrollment": "0827CI231069",
-    "email": "krishnathakur230625@acropolis.in",
-    "matlabCert": "https://drive.google.com/open?id=1A6WJcl1rhAM6mFqI4lv7_yU6nTaTNCHQ",
-    "blogLink": "https://krishhnathakurr.blogspot.com/",
-    "githubLink": "https://github.com/krishnathakur230625-source/Machine-Learning",
-    "projectTitle": "Handwritten digit recognition system",
-    "projectLink": ""
-  },
-  {
-    "name": "Krutika Dakhre",
-    "enrollment": "0827CI231070",
-    "email": "krutikadakhre230990@acropolis.in",
-    "matlabCert": "https://drive.google.com/open?id=1r_Sa2y9zYJnwVeErgun1JxYzWXtMZCs3",
-    "blogLink": "https://medium.com/@dakhrekrutika/convolution-layer-in-cnn-the-building-block-of-computer-vision-b2ada47faa61",
-    "githubLink": "https://github.com/Krutika066",
-    "projectTitle": "ML Project",
-    "projectLink": "https://edupredict-e7zu.onrender.com"
-  },
-  {
-    "name": "Kuldeep Kelde",
-    "enrollment": "0827CI231071",
-    "email": "kuldeepkelde231154@acropolis.in",
-    "matlabCert": "https://drive.google.com/open?id=1dGU5kAJtfajQ7KQva1cztWwyUWZAXznI",
-    "blogLink": "https://medium.com/@kuldeepkelde231154/linear-regression-from-basic-to-advanced-0e92a1f5e4af",
-    "githubLink": "https://github.com/Keldekuldeep/ML",
-    "projectTitle": "Face detection",
-    "projectLink": ""
-  },
-  {
-    "name": "Lakshya Jain",
-    "enrollment": "0827CI231072",
-    "email": "lakshyajain230473@acropolis.in",
-    "matlabCert": "https://drive.google.com/open?id=17ei0aXNFHvcC2nKvHNrEVEGDZe_Mxwly",
-    "blogLink": "https://medium.com/p/924da675e41e?postPublishedType=initial",
-    "githubLink": "https://github.com/lakshyajain45/ProgrammerLJ",
-    "projectTitle": "Performance Analyzer",
-    "projectLink": "https://my-performance-app-vyappcfhlmcwb6aie6g6d5g.streamlit.app/"
-  },
-  {
-    "name": "Lav Bhatia",
-    "enrollment": "0827CI231073",
-    "email": "lavbhatia231348@acropolis.in",
-    "matlabCert": "https://drive.google.com/open?id=12LNuV7jyR0jaCj8Et9dcfGWbof7Oakp4",
-    "blogLink": "https://medium.com/@lavbhatia231348/understanding-google-inferencing-in-machine-learning-a-complete-guide-626603a185b0",
-    "githubLink": "https://github.com/lavbhatia07/Machine-Learning-",
-    "projectTitle": "ML Project",
-    "projectLink": "https://emosense-ai-6jmm.onrender.com/"
+    "projectLink": "https://deep-learning-henna.vercel.app?_vercel_share=vfSo5A6d30dB9BCbPEPH34FupEZDI7Oo",
+    "projectWorking": true,
+    "blogWorking": true
   },
   {
     "name": "Mansi Jain",
@@ -557,27 +199,321 @@
     "blogLink": "https://nlpforbeginners1705.blogspot.com/2026/05/natural-language-processing-nlp.html",
     "githubLink": "https://github.com/Mansij19/Machine_Learning",
     "projectTitle": "Resume Analyser",
-    "projectLink": "https://resume-analyser-nu-eosin.vercel.app/"
+    "projectLink": "https://resume-analyser-nu-eosin.vercel.app/",
+    "projectWorking": true,
+    "blogWorking": true
   },
   {
-    "name": "Mansi Wahane",
-    "enrollment": "0827CI231078",
-    "email": "mansiwahane230460@acropolis.in",
-    "matlabCert": "https://drive.google.com/open?id=1GSKxGGNKXOx_DfoNfkFtShywOcNj8gR6",
-    "blogLink": "https://medium.com/@mansiwahane2425/supervised-vs-unsupervised-learning-understanding-the-core-of-machine-learning-67ad260c73be",
-    "githubLink": "https://github.com/mansiwahane2425-cmd/Python-ml",
+    "name": "Aadarsh Garhewal",
+    "enrollment": "0827CI231001",
+    "email": "aadarshgarhewal230818@acropolis.in",
+    "matlabCert": "https://drive.google.com/open?id=1yIHspJ5NC_q4iS4Y8DKU_c7XWBNzsIHN",
+    "blogLink": "https://aadarshgarhewal.blogspot.com/2026/05/convolutional-neural-network.html",
+    "githubLink": "https://github.com/aadarshdevstack/Machine-Learning",
+    "projectTitle": "Not Specified",
+    "projectLink": "",
+    "projectWorking": false,
+    "blogWorking": true
+  },
+  {
+    "name": "Abhishek Verma",
+    "enrollment": "0827CI231005",
+    "email": "abhishekverma230913@acropolis.in",
+    "matlabCert": "https://drive.google.com/open?id=1NtGp9WFMzUrT9XGBfJqxdH4VUaojBdPd",
+    "blogLink": "https://medium.com/@abhishekkumarjaiswal9722/langchain-langgraph-2d31d712e2ca",
+    "githubLink": "https://github.com/abbu1809/ML-Lab",
     "projectTitle": "ML Project",
-    "projectLink": "https://laptop-price-prediction-project-4.onrender.com"
+    "projectLink": "https://github.com/abbu1809/ML_PROJECT.git",
+    "projectWorking": true,
+    "blogWorking": false
   },
   {
-    "name": "Rajvardhan Rajpurohit",
-    "enrollment": "0827CI243D07",
-    "email": "rajvardhanrajpurohit241362@acropolis.in",
-    "matlabCert": "https://drive.google.com/open?id=1KsghrBE_mJvfDYk251dzVNIrCs_eEBlY",
-    "blogLink": "https://medium.com/@rajverdhanrajpurohit14/understanding-the-actor-critic-model-in-reinforcement-learning-55fdabf77bd2",
-    "githubLink": "https://github.com/rajvardhan-ctrl/Python",
-    "projectTitle": "Sentiment Analysis on Twitter Data",
-    "projectLink": ""
+    "name": "Adarsh Pratap Singh Gurjar",
+    "enrollment": "0827CI231007",
+    "email": "adarshpratap231043@acropolis.in",
+    "matlabCert": "https://drive.google.com/open?id=1JbfIEz35xKW2--HnfHT_L3nYmprXm6qM",
+    "blogLink": "https://medium.com/@gurjaradarsh2/sigmoid-vs-relu-activation-function-choice-that-changed-deep-learning-51387e18733d",
+    "githubLink": "https://github.com/adarshpratap231043-arch/machine-learning.git",
+    "projectTitle": "ML Project",
+    "projectLink": "https://student-stress-6r3dqufwrpfxqmskwavthg.streamlit.app/",
+    "projectWorking": true,
+    "blogWorking": false
+  },
+  {
+    "name": "Aditi Vishwakarma",
+    "enrollment": "0827CI231008",
+    "email": "aditivishwakarma231033@acropolis.in",
+    "matlabCert": "https://drive.google.com/open?id=1hSgij7DIcNewuJkmM3rmMr5VN5lLP6nG",
+    "blogLink": "https://worldailyaffairs.blogspot.com/2026/05/how-convolutional-neural-networks.html",
+    "githubLink": "https://github.com/AditiVishwakarma257/Machine-Learning-Lab",
+    "projectTitle": "Update it later",
+    "projectLink": "",
+    "projectWorking": false,
+    "blogWorking": true
+  },
+  {
+    "name": "Aditya Tiwari",
+    "enrollment": "0827CI231009",
+    "email": "adityatiwari230074@acropolis.in",
+    "matlabCert": "https://drive.google.com/open?id=1C23lLbCPGtq6qZRvJv80HcoTyWUl87FL",
+    "blogLink": "https://medium.com/@tiwariaditya005/when-machines-learned-to-remember-5769d86c1b49",
+    "githubLink": "https://github.com/adityatiwari12/MachineLearning-CSIT",
+    "projectTitle": "ML Project",
+    "projectLink": "https://ai-content-detector-csit-project.streamlit.app/",
+    "projectWorking": true,
+    "blogWorking": false
+  },
+  {
+    "name": "Akash Baraskar",
+    "enrollment": "0827CI231010",
+    "email": "akashbaraskar231064@acropolis.in",
+    "matlabCert": "https://drive.google.com/open?id=1TSP_k99ngQdh5lZMQ_pKDtN-M5tdpDmv",
+    "blogLink": "https://mlqlearning.blogspot.com/2026/05/introduction-machine-learning-is.html",
+    "githubLink": "https://github.com/akashbaraskar231064/Python-ML",
+    "projectTitle": "Medicine Recommendation System",
+    "projectLink": "",
+    "projectWorking": false,
+    "blogWorking": true
+  },
+  {
+    "name": "Akshat Karode",
+    "enrollment": "0827CI231011",
+    "email": "akshatkarode230101@acropolis.in",
+    "matlabCert": "https://drive.google.com/open?id=1K4xOmw7ytPCVztS1hO32PCvbAwm0SLwR",
+    "blogLink": "https://hirericalclusteringakshat.blogspot.com/2026/05/hierarchical-clustering.html?m=1",
+    "githubLink": "https://github.com/karodeakshat064/machine-learning-csit",
+    "projectTitle": "Not Specified",
+    "projectLink": "",
+    "projectWorking": false,
+    "blogWorking": true
+  },
+  {
+    "name": "Ambar Yadav",
+    "enrollment": "0827CI231014",
+    "email": "ambaryadav231256@acropolis.in",
+    "matlabCert": "https://drive.google.com/open?id=1TKz0H9zoPFNmJv07sLSRWsDhif4kQs02",
+    "blogLink": "https://ambaryadavwrites.blogspot.com/2026/05/sigmoid-vs-relu.html",
+    "githubLink": "https://github.com/ambaryadav27/Machine-Learning-csit.git",
+    "projectTitle": "Student Marks Predictor",
+    "projectLink": "https://student-marks-predictor-production.up.railway.app",
+    "projectWorking": false,
+    "blogWorking": true
+  },
+  {
+    "name": "Anshu Bilawliya",
+    "enrollment": "0827CI231020",
+    "email": "anshubilawliya230456@acropolis.in",
+    "matlabCert": "https://drive.google.com/open?id=1naVr4nDi4WVux84hwfZD3vfy6PHWcAFU",
+    "blogLink": "https://anshubilawliyablog.blogspot.com/2026/05/exploding-gradient-problem-in-deep.html",
+    "githubLink": "https://github.com/anshubilawliya230456-web/ML-Lab",
+    "projectTitle": "Vehicle Detection System",
+    "projectLink": "https://vechicle-detecttion.onrender.com",
+    "projectWorking": false,
+    "blogWorking": true
+  },
+  {
+    "name": "Anuj Malviya",
+    "enrollment": "0827CI231021",
+    "email": "anujmalviya231066@acropolis.in",
+    "matlabCert": "https://drive.google.com/open?id=13PvlOhnOzj_42zVs7o0XO6inWc-iRX-N",
+    "blogLink": "https://anujmalviya20.blogspot.com/2026/05/reinforcement-learning.html",
+    "githubLink": "https://github.com/AnujMalviya20/ML_class/tree/main/Python-ML-main",
+    "projectTitle": "Not Specified",
+    "projectLink": "",
+    "projectWorking": false,
+    "blogWorking": true
+  },
+  {
+    "name": "Anvesh Trivedi",
+    "enrollment": "0827CI231022",
+    "email": "anveshtrivedi231232@acropolis.in",
+    "matlabCert": "https://drive.google.com/open?id=10DxCB7XyyymEjUuufyvHKpAbEV4XYy2u",
+    "blogLink": "https://anveshtrivedi.substack.com/p/a-study-of-the-long-short-term-memory",
+    "githubLink": "https://github.com/Anveshtrivedi/",
+    "projectTitle": "Not Specified",
+    "projectLink": "",
+    "projectWorking": false,
+    "blogWorking": true
+  },
+  {
+    "name": "Ayush Patel",
+    "enrollment": "0827CI231002",
+    "email": "aayushpatel230358@acropolis.in",
+    "matlabCert": "https://drive.google.com/open?id=1C6qOKlzF-zCpAV8OM0OKIZw7whVWH9kN",
+    "blogLink": "https://ayushpatel-mdp.blogspot.com/2026/05/mdpmarkov-decision-process.html",
+    "githubLink": "https://github.com/Ayush2005292/ML",
+    "projectTitle": "Emotion Detection Specifier) and link",
+    "projectLink": "https://emotion-detection-glal.onrender.com/",
+    "projectWorking": false,
+    "blogWorking": true
+  },
+  {
+    "name": "Dev Agrawal",
+    "enrollment": "0827CI231033",
+    "email": "devagrawal230114@acropolis.in",
+    "matlabCert": "https://drive.google.com/open?id=1wvqs0U7IkEyOhrl6YjqHP7ZL8o68yUkB",
+    "blogLink": "https://devagrawal1234.blogspot.com/2026/05/synthetic-data-generation-using-machine.html",
+    "githubLink": "https://github.com/agrawaldev12345-stack/ML-and-python",
+    "projectTitle": "Customer agent supporter",
+    "projectLink": "",
+    "projectWorking": false,
+    "blogWorking": true
+  },
+  {
+    "name": "Dipesh Patidar",
+    "enrollment": "0827CI230138",
+    "email": "dipeshpatidar230724@acropolis.in",
+    "matlabCert": "https://drive.google.com/open?id=1FFMD_RTCR23u0U7BcSqifXB7oQVjOQfp",
+    "blogLink": "https://realdipeshblog.blogspot.com/2026/05/artificial-neural-networks-brain-behind.html",
+    "githubLink": "https://github.com/DipeshPatidar2004/Object-Detection",
+    "projectTitle": "ML Project",
+    "projectLink": "https://object-detection-8lyz.onrender.com",
+    "projectWorking": false,
+    "blogWorking": true
+  },
+  {
+    "name": "Himanshu Sheetlani",
+    "enrollment": "0827CI231048",
+    "email": "himanshusheetlani231177@acropolis.in",
+    "matlabCert": "https://drive.google.com/open?id=1N76UXvt1PyrRM-_n7ErHHWeV1bZywOqu",
+    "blogLink": "https://medium.com/p/e69c45d81dd3",
+    "githubLink": "https://github.com/himanshu-sheetlani/ML-Course",
+    "projectTitle": "Car price predictor - using random forest regression",
+    "projectLink": "https://car-price-prediction-sand.vercel.app/",
+    "projectWorking": true,
+    "blogWorking": false
+  },
+  {
+    "name": "Ishika Rathod",
+    "enrollment": "0827CI231052",
+    "email": "ishikarathod231008@acropolis.in",
+    "matlabCert": "https://drive.google.com/open?id=1L0vFq7JtG8tCJM87ONVSlMQfyn5hz9b0",
+    "blogLink": "https://siamesenetworkml.blogspot.com/2026/05/siamese-network.html",
+    "githubLink": "https://github.com/ishikarathod26/Mini_Project",
+    "projectTitle": "eco-vision-waste.surge.sh",
+    "projectLink": "",
+    "projectWorking": false,
+    "blogWorking": true
+  },
+  {
+    "name": "Ishika Sethiya",
+    "enrollment": "0827CI231053",
+    "email": "ishikasethiya231125@acropolis.in",
+    "matlabCert": "https://drive.google.com/open?id=1t9t0ucbOuafFMKUahEWuvod9-yMVFrOu",
+    "blogLink": "https://medium.com/@ishikasethiya16/the-power-of-natural-language-processing-teaching-machines-to-understand-humans-1dae30f7792e",
+    "githubLink": "https://github.com/ishikasethiya16/Python-Lab",
+    "projectTitle": "ML Project",
+    "projectLink": "https://waste-classification-ai-guq4zqolrjvhfj4g5x7ebx.streamlit.app",
+    "projectWorking": true,
+    "blogWorking": false
+  },
+  {
+    "name": "Karan Patel",
+    "enrollment": "0827CI231058",
+    "email": "karanpatel230471@acropolis.in",
+    "matlabCert": "https://drive.google.com/open?id=1MSb-bmhLh1DMCELTHuKYu_9sFIrxzT5P",
+    "blogLink": "https://medium.com/@karanpatel230471/transfer-learning-fdeef218eed8",
+    "githubLink": "https://github.com/",
+    "projectTitle": "ML Project",
+    "projectLink": "https://plant-disease-detection-mocha-six.vercel.app",
+    "projectWorking": true,
+    "blogWorking": false
+  },
+  {
+    "name": "Keshav Patidar",
+    "enrollment": "0827CI231060",
+    "email": "keshavpatidar231235@acropolis.in",
+    "matlabCert": "https://drive.google.com/open?id=15PgnJ6hc-ByEj3ROGLVgiy89IdAghcTW",
+    "blogLink": "https://officialkeshav45.blogspot.com/2026/05/convolutional-neural-networks-cnn.html",
+    "githubLink": "https://github.com/Keshu45/Machine-Learning",
+    "projectTitle": "Bitcoin Price Prediction",
+    "projectLink": "https://cryptovision-ml.onrender.com/",
+    "projectWorking": false,
+    "blogWorking": true
+  },
+  {
+    "name": "Krati Patidar",
+    "enrollment": "0827CI231063",
+    "email": "kratipatidar230124@acropolis.in",
+    "matlabCert": "https://drive.google.com/open?id=1CpOxv3pDzIuOUYyp4d4A5ierGv3IgMpz",
+    "blogLink": "https://optimizersml.blogspot.com/2026/05/optimizers-in-machine-learning.html",
+    "githubLink": "https://github.com/kratipatidar15/Machine-Learning",
+    "projectTitle": "Waste classification and recycling suggestion system",
+    "projectLink": "",
+    "projectWorking": false,
+    "blogWorking": true
+  },
+  {
+    "name": "Kripa Raghuvanshi",
+    "enrollment": "0827CI231064",
+    "email": "kriparaghuvanshi231039@acropolis.in",
+    "matlabCert": "https://drive.google.com/open?id=1EFcTUq7vrK-De_Jqst22eGcchCztdD8Y",
+    "blogLink": "https://kriparaghuvanshi55.blogspot.com/2026/05/supervised-vs-unsupervised-learning-in.html,   https://kriparaghuvanshi55.blogspot.com/2026/05/machine-learning-simple-guide.html",
+    "githubLink": "https://github.com/kripa-r/Machine-learning",
+    "projectTitle": "ML Project",
+    "projectLink": "https://fake-news-detector-1-52w3.onrender.com",
+    "projectWorking": true,
+    "blogWorking": false
+  },
+  {
+    "name": "Krishna Gupta",
+    "enrollment": "0827CI231065",
+    "email": "krishnagupta231081@acropolis.in",
+    "matlabCert": "https://drive.google.com/open?id=1qOZ1-tPeFG5UgEQCXYkMnPRfvcwZT3PZ",
+    "blogLink": "https://www.blogger.com/blog/post/edit/7071205792401307551/2087365273623018069",
+    "githubLink": "https://github.com/krishnagupta65/machine-learning",
+    "projectTitle": "Not Specified",
+    "projectLink": "",
+    "projectWorking": false,
+    "blogWorking": true
+  },
+  {
+    "name": "Krishna Soni",
+    "enrollment": "0827CI231068",
+    "email": "krishnasoni230691@acropolis.in",
+    "matlabCert": "https://drive.google.com/open?id=1gqqWpE1bqKD2aobjrpLkyX0uZb7Qzp6Y",
+    "blogLink": "https://krishnasoni7730.blogspot.com/2026/05/hyper-parameter.html",
+    "githubLink": "https://github.com/krishnasoni230691-creator",
+    "projectTitle": "Hyper parameter",
+    "projectLink": "",
+    "projectWorking": false,
+    "blogWorking": true
+  },
+  {
+    "name": "Krishna Thakur",
+    "enrollment": "0827CI231069",
+    "email": "krishnathakur230625@acropolis.in",
+    "matlabCert": "https://drive.google.com/open?id=1A6WJcl1rhAM6mFqI4lv7_yU6nTaTNCHQ",
+    "blogLink": "https://krishhnathakurr.blogspot.com/",
+    "githubLink": "https://github.com/krishnathakur230625-source/Machine-Learning",
+    "projectTitle": "Handwritten digit recognition system",
+    "projectLink": "",
+    "projectWorking": false,
+    "blogWorking": true
+  },
+  {
+    "name": "Krutika Dakhre",
+    "enrollment": "0827CI231070",
+    "email": "krutikadakhre230990@acropolis.in",
+    "matlabCert": "https://drive.google.com/open?id=1r_Sa2y9zYJnwVeErgun1JxYzWXtMZCs3",
+    "blogLink": "https://medium.com/@dakhrekrutika/convolution-layer-in-cnn-the-building-block-of-computer-vision-b2ada47faa61",
+    "githubLink": "https://github.com/Krutika066",
+    "projectTitle": "ML Project",
+    "projectLink": "https://edupredict-e7zu.onrender.com",
+    "projectWorking": true,
+    "blogWorking": false
+  },
+  {
+    "name": "Lakshya Jain",
+    "enrollment": "0827CI231072",
+    "email": "lakshyajain230473@acropolis.in",
+    "matlabCert": "https://drive.google.com/open?id=17ei0aXNFHvcC2nKvHNrEVEGDZe_Mxwly",
+    "blogLink": "https://medium.com/p/924da675e41e?postPublishedType=initial",
+    "githubLink": "https://github.com/lakshyajain45/ProgrammerLJ",
+    "projectTitle": "Performance Analyzer",
+    "projectLink": "https://my-performance-app-vyappcfhlmcwb6aie6g6d5g.streamlit.app/",
+    "projectWorking": true,
+    "blogWorking": false
   },
   {
     "name": "Tanish Gupta",
@@ -587,7 +523,9 @@
     "blogLink": "https://medium.com/@tanishgupta7988/time-series-analysis-b4692a1b7a47",
     "githubLink": "https://github.com/tanishgupta25",
     "projectTitle": "LaptopAI Price Predictor –        \"Machine Learning-Based System for Laptop Price Prediction, Feature Impact Analysis, and Decision Support\"  .              Deploy Link –",
-    "projectLink": "https://laptopai-price-predictor-atuxbchgrd3sbatbliuzq7.streamlit.app"
+    "projectLink": "https://laptopai-price-predictor-atuxbchgrd3sbatbliuzq7.streamlit.app",
+    "projectWorking": true,
+    "blogWorking": false
   },
   {
     "name": "Tanisha Kariya",
@@ -597,6 +535,188 @@
     "blogLink": "https://medium.com/@kariatanisha8/reinforcement-learning-teaching-machines-through-rewards-and-experience-c242746aed2f",
     "githubLink": "https://github.com/kariyatanisha/python-for-ml",
     "projectTitle": "ML Project",
-    "projectLink": "https://vercel.com/tanisha-kariyas-projects/silver-funicular"
+    "projectLink": "https://vercel.com/tanisha-kariyas-projects/silver-funicular",
+    "projectWorking": true,
+    "blogWorking": false
+  },
+  {
+    "name": "Aditi Kumrawat",
+    "enrollment": "0827RL231001",
+    "email": "aditikumrawat230287@acropolis.in",
+    "matlabCert": "https://drive.google.com/open?id=1Ssx2JPxJQ9wCOu5TqXLbr5fNGmxGWNKb",
+    "blogLink": "https://aditikumrawat.hashnode.dev/how-random-forest-improves-prediction-accuracy",
+    "githubLink": "https://github.com/Aditikumrawat-23/Machine-Learning.git",
+    "projectTitle": "Students Marks predictor -",
+    "projectLink": "",
+    "projectWorking": false,
+    "blogWorking": false
+  },
+  {
+    "name": "Akshay Khanna",
+    "enrollment": "0827CI231012",
+    "email": "akshaykhanna230754@acropolis.in",
+    "matlabCert": "https://drive.google.com/open?id=1ZFj6FipsdLpumaYhIT2bUrmlsB6-U_Aq",
+    "blogLink": "https://medium.com/@akshaykhanna5684/beam-search-the-algorithm-that-helps-ai-think-before-it-speaks-b6a2516a1a45",
+    "githubLink": "https://github.com/A-kki/ML",
+    "projectTitle": "Nil",
+    "projectLink": "",
+    "projectWorking": false,
+    "blogWorking": false
+  },
+  {
+    "name": "Deeva Jain",
+    "enrollment": "082CI231032",
+    "email": "deevajain230264@acropolis.in",
+    "matlabCert": "https://drive.google.com/open?id=1_Pxgs5fPB7uoOd87MMtIoreb17oy9Kh9",
+    "blogLink": "https://medium.com/@deevajain2607/auto-encoder-from-basic-to-advanced-b14151c8944a",
+    "githubLink": "https://github.com/Deeva2601/Python-ML-lab",
+    "projectTitle": "ok",
+    "projectLink": "",
+    "projectWorking": false,
+    "blogWorking": false
+  },
+  {
+    "name": "Deeva Jain",
+    "enrollment": "0827CI231032",
+    "email": "deevajain230264@acropolis.in",
+    "matlabCert": "https://drive.google.com/open?id=1nokyN0e42cnzVs3igLPlSAvELLSIrLT7",
+    "blogLink": "https://medium.com/@deevajain2607/auto-encoder-from-basic-to-advanced-b14151c8944a",
+    "githubLink": "https://github.com/Deeva2601",
+    "projectTitle": "ML Project",
+    "projectLink": "https://kris7656-moodmusic.hf.space/",
+    "projectWorking": false,
+    "blogWorking": false
+  },
+  {
+    "name": "Devang Sharma",
+    "enrollment": "0827CI231034",
+    "email": "devangsharma230467@acropolis.in",
+    "matlabCert": "https://drive.google.com/open?id=17wk9gzRXAScKmyPqzLDVy0VKVw3QSicG",
+    "blogLink": "https://medium.com/@devangsharma26102005/1d-vs-2d-convolution-in-deep-learning-using-python-6fd033b72d65",
+    "githubLink": "https://github.com/devangsharma230467-sys/python-ml",
+    "projectTitle": "ML Project",
+    "projectLink": "https://ml-plant-disease-detection.onrender.com",
+    "projectWorking": false,
+    "blogWorking": false
+  },
+  {
+    "name": "Hariom Patidar",
+    "enrollment": "0827CI231044",
+    "email": "hariompatidar231006@acropolis.in",
+    "matlabCert": "https://drive.google.com/open?id=1N5W-bmut9DKsVwMRmvVwx4EjTs--9hMt",
+    "blogLink": "https://medium.com/@harshpatidar1966/yolo-42bb16a07965",
+    "githubLink": "https://github.com/Hariom1-eng/Deep-Learning",
+    "projectTitle": "mlproject-production-4e78.up.railway.app",
+    "projectLink": "",
+    "projectWorking": false,
+    "blogWorking": false
+  },
+  {
+    "name": "Harshit Jain",
+    "enrollment": "0827CI231046",
+    "email": "harshitjain231397@acropolis.in",
+    "matlabCert": "https://drive.google.com/open?id=1FmkHmlD9ErX4vrMx7pp9Fdlm8F_eMI1w",
+    "blogLink": "https://medium.com/@hardikjain1803/confusion-matrix-in-machine-learning-6528d4e9b95b",
+    "githubLink": "https://github.com/harshitjain1888/Machine-Learning",
+    "projectTitle": "Movie Recommendation system",
+    "projectLink": "",
+    "projectWorking": false,
+    "blogWorking": false
+  },
+  {
+    "name": "Harshita Paliwal",
+    "enrollment": "0827CI231047",
+    "email": "harshitapaliwal231196@acropolis.in",
+    "matlabCert": "https://drive.google.com/open?id=1Waf9eJNjwdZAdW8HQQIM3nVVaSBvvZS8",
+    "blogLink": "https://medium.com/@harshitapaliwal14/the-perceptron-the-tiny-brain-cell-behind-modern-ai-465683f5b592",
+    "githubLink": "https://github.com/HARSHITAPALIWAL2/Machine-Learning",
+    "projectTitle": "spam-mssg-detector-zq45.vercel.app",
+    "projectLink": "",
+    "projectWorking": false,
+    "blogWorking": false
+  },
+  {
+    "name": "Kapil Goyal",
+    "enrollment": "0827CI231057",
+    "email": "kapilgoyal230560@acropolis.in",
+    "matlabCert": "https://drive.google.com/open?id=1zwQPgatcYAwSc9q7_8OPMkCEDJVvmPf5",
+    "blogLink": "https://medium.com/@kapilgoel2606/the-mind-in-the-machine-understanding-large-language-models-06de7c546a95",
+    "githubLink": "https://github.com/kapil261/ML_LABS",
+    "projectTitle": "ML Project",
+    "projectLink": "https://ai-powered-data-analyst-2.onrender.com",
+    "projectWorking": false,
+    "blogWorking": false
+  },
+  {
+    "name": "Krishna Gupta",
+    "enrollment": "0827CI231066",
+    "email": "krishnagupta231270@acropolis.in",
+    "matlabCert": "https://drive.google.com/open?id=161_W8EuO9F1nGAeH6Tme3pd0qorIl4tC",
+    "blogLink": "https://medium.com/@krishnagupta52784/understanding-inception-network-without-the-math-6b929518d2c7",
+    "githubLink": "https://github.com/kris743",
+    "projectTitle": "ML Project",
+    "projectLink": "https://ai-resume-matcher-k743.onrender.com",
+    "projectWorking": false,
+    "blogWorking": false
+  },
+  {
+    "name": "Krishna Khirbadodiya",
+    "enrollment": "0827CI231067",
+    "email": "krishnakhirbadodiya230936@acropolis.in",
+    "matlabCert": "https://drive.google.com/open?id=1aLwGfSLFl943JCAtByIF4KaBO0LQULUG",
+    "blogLink": "https://medium.com/@krishnakhirbadodiya/beyond-the-route-the-machine-learning-architecture-powering-google-maps-10f5b798abea",
+    "githubLink": "https://github.com/krishnn02",
+    "projectTitle": "Title:- Urban Heat Island Analyzer ,    Deployment Link",
+    "projectLink": "https://urban-heat-island-analyzer.onrender.com",
+    "projectWorking": false,
+    "blogWorking": false
+  },
+  {
+    "name": "Kuldeep Kelde",
+    "enrollment": "0827CI231071",
+    "email": "kuldeepkelde231154@acropolis.in",
+    "matlabCert": "https://drive.google.com/open?id=1dGU5kAJtfajQ7KQva1cztWwyUWZAXznI",
+    "blogLink": "https://medium.com/@kuldeepkelde231154/linear-regression-from-basic-to-advanced-0e92a1f5e4af",
+    "githubLink": "https://github.com/Keldekuldeep/ML",
+    "projectTitle": "Face detection",
+    "projectLink": "",
+    "projectWorking": false,
+    "blogWorking": false
+  },
+  {
+    "name": "Lav Bhatia",
+    "enrollment": "0827CI231073",
+    "email": "lavbhatia231348@acropolis.in",
+    "matlabCert": "https://drive.google.com/open?id=12LNuV7jyR0jaCj8Et9dcfGWbof7Oakp4",
+    "blogLink": "https://medium.com/@lavbhatia231348/understanding-google-inferencing-in-machine-learning-a-complete-guide-626603a185b0",
+    "githubLink": "https://github.com/lavbhatia07/Machine-Learning-",
+    "projectTitle": "ML Project",
+    "projectLink": "https://emosense-ai-6jmm.onrender.com/",
+    "projectWorking": false,
+    "blogWorking": false
+  },
+  {
+    "name": "Mansi Wahane",
+    "enrollment": "0827CI231078",
+    "email": "mansiwahane230460@acropolis.in",
+    "matlabCert": "https://drive.google.com/open?id=1GSKxGGNKXOx_DfoNfkFtShywOcNj8gR6",
+    "blogLink": "https://medium.com/@mansiwahane2425/supervised-vs-unsupervised-learning-understanding-the-core-of-machine-learning-67ad260c73be",
+    "githubLink": "https://github.com/mansiwahane2425-cmd/Python-ml",
+    "projectTitle": "ML Project",
+    "projectLink": "https://laptop-price-prediction-project-4.onrender.com",
+    "projectWorking": false,
+    "blogWorking": false
+  },
+  {
+    "name": "Rajvardhan Rajpurohit",
+    "enrollment": "0827CI243D07",
+    "email": "rajvardhanrajpurohit241362@acropolis.in",
+    "matlabCert": "https://drive.google.com/open?id=1KsghrBE_mJvfDYk251dzVNIrCs_eEBlY",
+    "blogLink": "https://medium.com/@rajverdhanrajpurohit14/understanding-the-actor-critic-model-in-reinforcement-learning-55fdabf77bd2",
+    "githubLink": "https://github.com/rajvardhan-ctrl/Python",
+    "projectTitle": "Sentiment Analysis on Twitter Data",
+    "projectLink": "",
+    "projectWorking": false,
+    "blogWorking": false
   }
 ]
